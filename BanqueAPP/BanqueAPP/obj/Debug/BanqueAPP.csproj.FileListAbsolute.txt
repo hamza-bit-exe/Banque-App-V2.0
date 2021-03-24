@@ -1,0 +1,14 @@
+C:\Users\Hamza-ber\source\repos\BanqueAPP\BanqueAPP\bin\Debug\BanqueAPP.exe.config
+C:\Users\Hamza-ber\source\repos\BanqueAPP\BanqueAPP\bin\Debug\BanqueAPP.exe
+C:\Users\Hamza-ber\source\repos\BanqueAPP\BanqueAPP\bin\Debug\BanqueAPP.pdb
+C:\Users\Hamza-ber\source\repos\BanqueAPP\BanqueAPP\obj\Debug\BanqueAPP.csprojAssemblyReference.cache
+C:\Users\Hamza-ber\source\repos\BanqueAPP\BanqueAPP\obj\Debug\BanqueAPP.csproj.CoreCompileInputs.cache
+C:\Users\Hamza-ber\source\repos\BanqueAPP\BanqueAPP\obj\Debug\BanqueAPP.exe
+C:\Users\Hamza-ber\source\repos\BanqueAPP\BanqueAPP\obj\Debug\BanqueAPP.pdb
+C:\Users\hzouh\OneDrive\Bureau\BanqueAPP\BanqueAPP\bin\Debug\BanqueAPP.exe.config
+C:\Users\hzouh\OneDrive\Bureau\BanqueAPP\BanqueAPP\bin\Debug\BanqueAPP.exe
+C:\Users\hzouh\OneDrive\Bureau\BanqueAPP\BanqueAPP\bin\Debug\BanqueAPP.pdb
+C:\Users\hzouh\OneDrive\Bureau\BanqueAPP\BanqueAPP\obj\Debug\BanqueAPP.csprojAssemblyReference.cache
+C:\Users\hzouh\OneDrive\Bureau\BanqueAPP\BanqueAPP\obj\Debug\BanqueAPP.csproj.CoreCompileInputs.cache
+C:\Users\hzouh\OneDrive\Bureau\BanqueAPP\BanqueAPP\obj\Debug\BanqueAPP.exe
+C:\Users\hzouh\OneDrive\Bureau\BanqueAPP\BanqueAPP\obj\Debug\BanqueAPP.pdb
